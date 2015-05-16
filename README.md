@@ -8,8 +8,8 @@ For more information about ClickOnce technology see:
 http://msdn.microsoft.com/en-us/library/t71a733d(VS.80).aspx
 http://en.wikipedia.org/wiki/ClickOnce
 
-For information on how to detect if ClickOnce for Google Chrome™ is installed on the users computer
-Detecting
+For information on how to detect if ClickOnce for Google Chrome™ is installed on the users computer:
+https://github.com/clickoncechrome/clickoncechrome/wiki/Detecting
 
 Google Chrome is a trademark of Google Inc. Use of this trademark is subject to Google Permissions.
 
